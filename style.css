@@ -1,0 +1,21 @@
+body {
+        
+  background-color:azure ;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightgray;
+  border-width: 10px;
+  width: 8%;
+ 
+}
+
+h1,h2 ,h3{
+  color: aquamarine;
+}
+.MName:hover{
+  color: blue;
+  font-size: 100px;
+
+}
